@@ -25,3 +25,6 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Post template (로컬 전용)
+_drafts/post-template.md
